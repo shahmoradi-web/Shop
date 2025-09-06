@@ -1,0 +1,46 @@
+{% extends 'parent/base.html' %}
+{% load static %}
+{% block title %} product list{% endblock %}
+
+
+{% block content %}
+    <div class="header">
+        {% if category%}
+            <h1>لیست محصولات بر اساس دسته بندی   {{ category.name }}</h1>
+        {% else %}
+            <h1>لیست محصولات</h1>
+        {% endif %}
+    </div>
+
+    <div class="container">
+        <div class="small-div">
+            <ul class="categories">
+                <li class="category"><a href="{% url 'shop:product_list' %}">همه</a></li>
+                {% for ct in categories %}
+                    <li class="category"><a href="#">{{ ct.name }}</a></li>
+                {% endfor %}
+                <li><a href="{%url 'shop:product_list_by_sorting' 'expensive'%}">گرانترین</a></li>
+                <li><a href="{%url 'shop:product_list_by_sorting' 'cheapest'%}">ارزانترین</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div style="color: black">
+        {% if sorting_txt%}
+            <h2> :{{ sorting_txt }}</h2>
+        {% endif %}
+    </div>
+
+    <div class="large-div">
+        {% for product in products %}
+            <div class="product">
+                <h2><a href="{% url 'shop:product_detail' id=product.id slug=product.slug %}">{{ product.name }}</a></h2>
+                <img class='pic' src="{{ product.images.first.file.url }}">
+            </div>
+            <div class="price">
+                <span class="original-price">{{ product.price }}</span>
+                <span class="discounted-price">{{ product.new_price }}</span>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}

@@ -1,0 +1,26 @@
+from django.contrib import admin
+from django.contrib.admin import ModelAdmin
+
+from .models import *
+# Register your models here.
+
+class ImagInline(admin.TabularInline):
+    model = Imag
+    extra = 0
+
+class FeatureInline(admin.TabularInline):
+    model = ProductFeature
+    extra = 0
+
+@admin.register(Category)
+class CategoryAdmin(admin.ModelAdmin):
+    list_display = ('name', 'slug')
+    prepopulated_fields = {'slug': ('name',)}
+
+
+@admin.register(Product)
+class ProductAdmin(ModelAdmin):
+    list_display = ['name', 'inventory','new_price', 'created', 'updated']
+    list_filter = ['category','created', 'updated']
+    prepopulated_fields = {'slug': ('name',)}
+    inlines = [ImagInline, FeatureInline]
