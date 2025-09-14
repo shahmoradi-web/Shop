@@ -14,8 +14,7 @@ def add_to_cart(request, product_id):
     try:
         cart = Cart(request)
         product = get_object_or_404(Product, pk=product_id)
-        p = request.POST.get('p_id')
-        cart.add(p)
+        cart.add(product)
         context = {
             'item_count':len(cart),
             'total_price':cart.get_total_price()
