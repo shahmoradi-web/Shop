@@ -131,3 +131,5 @@ AUTH_USER_MODEL = 'account.ShopUser'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+MERCHANT = "00000000-0000-0000-0000-000000000000"
+SANDBOX = False

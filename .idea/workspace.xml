@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fc16e76-a966-41c1-b6d7-b6ff73ce08e7" name="Changes" comment="" />
+    <list default="true" id="3fc16e76-a966-41c1-b6d7-b6ff73ce08e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/orders/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orders/migrations/0002_orders_buyer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orders/templates/create_order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orders/templates/verify_code.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orders/templates/verify_phone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp_shop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp_shop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/templates/cart/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart/templates/cart/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orders/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/orders/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orders/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/orders/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orders/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/orders/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +54,7 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/hp/Desktop/MyApp_shop",
+    "last_opened_file_path": "C:/Users/hp/Desktop/MyApp_shop/orders/templates",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -54,6 +67,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\MyApp_shop\orders\templates" />
       <recent name="C:\Users\hp\Desktop\MyApp_shop\account" />
       <recent name="C:\Users\hp\Desktop\MyApp_shop\cart\templates\cart" />
       <recent name="C:\Users\hp\Desktop\MyApp_shop\cart" />
@@ -114,7 +128,8 @@
       <workItem from="1757587946270" duration="561000" />
       <workItem from="1757588725602" duration="5267000" />
       <workItem from="1757871117850" duration="883000" />
-      <workItem from="1757872182817" duration="497000" />
+      <workItem from="1757872182817" duration="570000" />
+      <workItem from="1757959590094" duration="2997000" />
     </task>
     <servers />
   </component>
