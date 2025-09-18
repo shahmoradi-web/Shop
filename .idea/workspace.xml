@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fc16e76-a966-41c1-b6d7-b6ff73ce08e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/api/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/permissions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyApp_shop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp_shop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyApp_shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp_shop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +46,8 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/hp/Desktop/MyApp_shop",
+    "git-widget-placeholder": "OrderApi",
+    "last_opened_file_path": "C:/Users/hp/Desktop/MyApp_shop/api",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -61,11 +60,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\MyApp_shop\api" />
       <recent name="C:\Users\hp\Desktop\MyApp_shop\cart" />
       <recent name="C:\Users\hp\Desktop\MyApp_shop\orders\templates" />
       <recent name="C:\Users\hp\Desktop\MyApp_shop\account" />
       <recent name="C:\Users\hp\Desktop\MyApp_shop\cart\templates\cart" />
-      <recent name="C:\Users\hp\Desktop\MyApp_shop\shop\templates\shop" />
     </key>
   </component>
   <component name="RunManager">
@@ -126,6 +125,8 @@
       <workItem from="1757959590094" duration="3375000" />
       <workItem from="1758006400557" duration="1772000" />
       <workItem from="1758129565306" duration="2839000" />
+      <workItem from="1758135850037" duration="436000" />
+      <workItem from="1758175200797" duration="1429000" />
     </task>
     <servers />
   </component>

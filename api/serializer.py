@@ -43,3 +43,7 @@ class UserRegisterSerializer(serializers.ModelSerializer):
         user.save()
         return user
 
+class OrderSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Orders
+        fields = '__all__'
