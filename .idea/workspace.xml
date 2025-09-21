@@ -5,8 +5,379 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fc16e76-a966-41c1-b6d7-b6ff73ce08e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/shop/static/css/animate/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/bootstrap-star-rating/star-rating.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/bootstrap-star-rating/star-rating.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/bootstrap-star-rating/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/bootstrap-star-rating/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/bootstrap-star-rating/theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/bootstrap-star-rating/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/bootstrap/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/bootstrap/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/bootstrap/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/bootstrap/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/farsi-fonts-styles/primary-iran-yekan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/farsi-fonts-styles/secondary-pinar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fontawesome-free/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/aviny-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/aviny-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/aviny-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/aviny-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-500.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-500.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/azarmehr-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/damavand-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/damavand-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/damavand-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/damavand-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dana-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dana-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dana-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dana-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dana-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dana-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dana-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dana-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dastnevis-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dastnevis-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dastnevis-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dastnevis-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/droid-naskh-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/droid-naskh-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/droid-naskh-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/droid-naskh-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-500.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-500.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/dubai-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-500.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-500.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/estedad-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/gandom-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/gandom-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/gandom-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/gandom-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/helvetica-neue-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/helvetica-neue-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/helvetica-neue-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/helvetica-neue-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/helvetica-neue-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/helvetica-neue-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/helvetica-neue-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/helvetica-neue-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/helvetica-neue-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/helvetica-neue-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/helvetica-neue-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/helvetica-neue-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-500.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-500.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-sans-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-500.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-500.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/iran-yekan-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/lalezar-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/lalezar-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/lalezar-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/lalezar-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/mikhak-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/mikhak-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/mikhak-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/mikhak-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/mikhak-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/mikhak-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/mikhak-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/mikhak-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/mikhak-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/mikhak-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/mikhak-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/mikhak-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/myriad-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/myriad-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/myriad-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/myriad-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/myriad-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/myriad-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/myriad-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/myriad-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/neirizi-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/neirizi-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/neirizi-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/neirizi-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/noora-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/noora-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/noora-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/noora-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/noora-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/noora-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/noora-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/noora-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/noora-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/noora-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/noora-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/noora-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/palatino-sans-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/palatino-sans-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/palatino-sans-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/palatino-sans-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/palatino-sans-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/palatino-sans-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/palatino-sans-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/palatino-sans-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-500.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-500.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/pinar-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/sahel-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/sahel-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/sahel-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/sahel-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/sahel-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/sahel-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/sahel-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/sahel-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/sahel-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/sahel-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/sahel-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/sahel-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-500.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-500.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/shabnam-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vanda-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vanda-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vanda-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vanda-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vanda-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vanda-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vanda-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vanda-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vanda-500.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vanda-500.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vanda-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vanda-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-500.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-500.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/vazir-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/yekan-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/yekan-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/yekan-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/fonts/farsi-fonts/yekan-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/magnific-popup/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/magnific-popup/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/magnific-popup/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/magnific-popup/magnific-popup.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/owl-carousel/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/owl-carousel/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/owl-carousel/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/owl-carousel/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/owl-carousel/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/owl-carousel/owl.theme.green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/owl-carousel/owl.theme.green.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/owl-carousel/owl.video.play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/simple-line-icons/simple-line-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/simple-line-icons/simple-line-icons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/skins/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/theme-blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/theme-elements.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/theme-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/css/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/img/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/img/icon-cart-big.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/img/product-grey-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/bootstrap-star-rating/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/bootstrap-star-rating/krajee-fas/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/bootstrap-star-rating/krajee-fas/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/bootstrap-star-rating/krajee-fas/theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/bootstrap-star-rating/krajee-fas/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/bootstrap-star-rating/star-rating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/bootstrap-star-rating/star-rating.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/bootstrap/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/bootstrap/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/bootstrap/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/bootstrap/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/common/common.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/common/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/common/common.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/isotope/jquery.isotope.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.appear/jquery.appear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.appear/jquery.appear.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.cookie/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.cookie/jquery.cookie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.easing/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.easy-pie-chart/angular.easypiechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.easy-pie-chart/angular.easypiechart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.easy-pie-chart/easypiechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.easy-pie-chart/easypiechart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.easy-pie-chart/jquery.easypiechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.easy-pie-chart/jquery.easypiechart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.gmap/jquery.gmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.gmap/jquery.gmap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.lazyload/jquery.lazyload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.lazyload/jquery.lazyload.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.validation/additional-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.validation/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.validation/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery.validation/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/jquery/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/magnific-popup/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/magnific-popup/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/magnific-popup/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/magnific-popup/magnific-popup.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/owl.carousel/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/owl.carousel/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/popper/popper-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/popper/popper-utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/popper/popper-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/popper/popper-utils.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/popper/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/popper/popper.js.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/popper/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/popper/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/popper/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/theme.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/vide/jquery.vide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/vide/jquery.vide.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/views/view.contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/views/view.home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/views/view.shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/vivus/vivus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/js/vivus/vivus.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/static/modernizr/modernizr.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/orders/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/templates/cart/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart/templates/cart/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/static/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/shop/static/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/parent/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop/templates/parent/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop/templates/partials/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/shop/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop/templates/shop/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/shop/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop/templates/shop/list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,30 +409,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/hp/Desktop/MyApp_shop/api",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/Desktop/MyApp_shop&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\MyApp_shop\shop" />
       <recent name="C:\Users\hp\Desktop\MyApp_shop\api" />
       <recent name="C:\Users\hp\Desktop\MyApp_shop\cart" />
       <recent name="C:\Users\hp\Desktop\MyApp_shop\orders\templates" />
       <recent name="C:\Users\hp\Desktop\MyApp_shop\account" />
-      <recent name="C:\Users\hp\Desktop\MyApp_shop\cart\templates\cart" />
     </key>
   </component>
   <component name="RunManager">
@@ -124,6 +495,8 @@
       <workItem from="1758129565306" duration="2839000" />
       <workItem from="1758135850037" duration="436000" />
       <workItem from="1758175200797" duration="1429000" />
+      <workItem from="1758385083239" duration="794000" />
+      <workItem from="1758463603526" duration="1416000" />
     </task>
     <servers />
   </component>
